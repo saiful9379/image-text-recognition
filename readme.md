@@ -12,6 +12,7 @@ Keras-based CNN+LSTM trained with CTC-loss for OCR.
 # Experiment 
 ## Train 
 ## Test
+Make sure your train model path then run ```prediction.py``` script.
 ### pretrain model
 
 # Contributor
