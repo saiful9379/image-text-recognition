@@ -8,7 +8,8 @@ Keras-based CNN+LSTM trained with CTC-loss for OCR.
 - tensorflow=> 1.8 
 - cairocffi
 - editdistance
-
+# synthesis Data Generation
+Please Download ```Roboto-Regular.ttf``` and add font directory in line number 36.
 # Experiment 
 ## Train 
 ## Test
