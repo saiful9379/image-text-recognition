@@ -568,5 +568,5 @@ def train(run_name, start_epoch, stop_epoch, img_w):
 
 
 if __name__ == '__main__':
-    run_name = 'fine_tune_on_read_9K_data'
+    run_name = 'model_dir'
     train(run_name, 200, 500, 128)
