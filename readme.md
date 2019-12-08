@@ -15,6 +15,7 @@ Please Download ```Roboto-Regular.ttf``` and add font directory in line number 3
 ## Test
 Make sure your train model path then run ```prediction.py``` script.
 ### pretrain model
+- RCNNMode_v2.ipython [model](https://drive.google.com/open?id=13utyxPpVqa5QCkJQjoj4r264QSoh_7Xd) link
 
 # Contributor
 - Saiful islam
