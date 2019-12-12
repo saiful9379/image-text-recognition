@@ -14,8 +14,14 @@ This Figure use first CNN for exraction and use LSTM for sequence generation wit
 - tensorflow=> 1.8 
 - cairocffi
 - editdistance
-# synthesis Data Generation
-Please Download ```Roboto-Regular.ttf``` and add font directory in line number 36.
+
+# Dataset
+Downlaod synthesis dataset [90kDICT32px](http://preon.iiit.ac.in/~scenetext/codendatasets/index.html)
+OR 
+synthesis Data Generate use ```thesis_data_generation_v3.py``` English wiki dataset.
+
+Note plase download ```Roboto-Regular.ttf``` and add font directory in line number 36.
+
 # Experiment 
 ## Train 
 ## Test
