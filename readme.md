@@ -16,6 +16,7 @@ This Figure use first CNN for exraction and use LSTM for sequence generation wit
 - editdistance
 
 # Dataset
+
 Downlaod synthesis dataset [90kDICT32px](http://preon.iiit.ac.in/~scenetext/codendatasets/index.html)
 OR 
 synthesis Data Generate use ```thesis_data_generation_v3.py``` English wiki dataset.
@@ -36,4 +37,4 @@ Make sure your train model path then run ```prediction.py``` script.
 - RCNNMode_v2.ipython [model](https://drive.google.com/open?id=13utyxPpVqa5QCkJQjoj4r264QSoh_7Xd) link
 
 # Contributor
-- Saiful islam
+- Saiful Islam
