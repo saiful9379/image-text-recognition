@@ -35,6 +35,7 @@ Make sure your train model path then run ```prediction.py``` script.
 
 ### pretrain model
 - RCNNMode_v2.ipython [model](https://drive.google.com/open?id=13utyxPpVqa5QCkJQjoj4r264QSoh_7Xd) link
+- Pretrain [model](https://drive.google.com/file/d/1Af5wTtqxyeODyFaHT-uNnFvIIT1u2sOK/view?usp=sharing)
 
 # Contributor
 - Saiful Islam
