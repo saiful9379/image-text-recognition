@@ -23,6 +23,12 @@ synthesis Data Generate use ```thesis_data_generation_v3.py``` English wiki data
 
 Note plase download ```Roboto-Regular.ttf``` and add font directory in line number 36.
 
+### pretrain model
+#### This model  use 3k image data for training and 3k random select from 90kDICT32px
+- RCNNMode_v2.ipython [model](https://drive.google.com/open?id=13utyxPpVqa5QCkJQjoj4r264QSoh_7Xd) link
+#### Below this model use 10k synthesis data for training
+- Pretrain [model](https://drive.google.com/file/d/1Af5wTtqxyeODyFaHT-uNnFvIIT1u2sOK/view?usp=sharing)
+
 # Experiment 
 ## Train 
 
@@ -37,10 +43,6 @@ Make sure your train model path and test image sample and run ```prediction.py``
 
 ![img](img/e498.png)
 
-
-### pretrain model
-- RCNNMode_v2.ipython [model](https://drive.google.com/open?id=13utyxPpVqa5QCkJQjoj4r264QSoh_7Xd) link
-- Pretrain [model](https://drive.google.com/file/d/1Af5wTtqxyeODyFaHT-uNnFvIIT1u2sOK/view?usp=sharing)
 
 # Contributor
 - Saiful Islam
