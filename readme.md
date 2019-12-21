@@ -25,8 +25,13 @@ Note plase download ```Roboto-Regular.ttf``` and add font directory in line numb
 
 # Experiment 
 ## Train 
+
 ## Test
-Make sure your train model path then run ```prediction.py``` script.
+- First model was train 3k images data from 90kDICT32px
+- Second model was train synthesis 10k images data
+
+Make sure your train model path and test image sample and run ```prediction.py``` script.
+
 
 #### Validation Result,
 
