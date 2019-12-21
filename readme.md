@@ -30,7 +30,8 @@ Note plase download ```Roboto-Regular.ttf``` and add font directory in line numb
 - Pretrain [model](https://drive.google.com/file/d/1Af5wTtqxyeODyFaHT-uNnFvIIT1u2sOK/view?usp=sharing)
 
 # Experiment 
-## Train 
+## Train
+Make Sure your dataset path and run``` train.py ```script
 
 ## Test
 - First model was train 3k images data from 90kDICT32px
