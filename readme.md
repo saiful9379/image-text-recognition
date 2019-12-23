@@ -36,6 +36,7 @@ Make Sure your dataset path and run``` train.py ```script
 ## Test
 - First model was train 3k images data from 90kDICT32px
 - Second model was train synthesis 10k images data
+
 Result [Link](result.md)
 Make sure your train model path and test image sample and run ```prediction.py``` script.
 
